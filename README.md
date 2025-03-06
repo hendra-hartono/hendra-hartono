@@ -1,4 +1,4 @@
-👋 ## Hi there 
+# 👋 Hi there!
 
 ## 👨‍💻 About Me
 
@@ -7,6 +7,19 @@
 
 Blockchain, Web3 and Fullstack Developer with over a decade of experience in developing applications in various industry sectors including : e-commerce, supply-chain (SCM), customer-relationship (CRM), travel management, manufacturing, dropshipping and personal financial planning.
 
+## 🔧 Tech Stack
+
+- Languages: Node JS, Typescript, Javascript, PHP, Python
+- Smart Contract Languages: Solidity, Rust
+- Backend Frameworks: Express JS, Laravel, Phalcon
+- Frontend Frameworks: React JS, Next, Vue JS, Nuxt
+- Blockchain Frameworks: Hardhat, Foundry, Anchor/Solana
+- Web3 Libraries: ethers.js, web3.js, IPFS
+- Database: PostgreSQL, MongoDB, MySQL
+- UI Frameworks: Tailwind, Bootstrap, Material
+- Mobile-app Frameworks: Flutter
+- Infra: Docker, Kubernetes, GCP, AWS
+- CI/CD : Git, Github, Bitbucket
 
 ## 📫 How to Reach Me
 
